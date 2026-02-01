@@ -1,0 +1,3 @@
+ps   - show running processes
+top  - display running processes
+kill - terminate a process

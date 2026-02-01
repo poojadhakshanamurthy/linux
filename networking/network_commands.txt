@@ -1,0 +1,3 @@
+ip a    - network interface details
+ping    - check connectivity
+netstat - network statistics

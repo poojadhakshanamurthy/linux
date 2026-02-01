@@ -1,0 +1,4 @@
+pwd   - present working directory
+mkdir - create directory
+rmdir - remove empty directory
+cd    - change directory

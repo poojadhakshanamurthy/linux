@@ -1,0 +1,5 @@
+ls  - list files
+cp  - copy files
+mv  - move or rename files
+rm  - remove files
+cat - display file content

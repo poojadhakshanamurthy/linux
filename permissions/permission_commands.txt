@@ -1,0 +1,3 @@
+chmod - change file permissions
+chown - change file owner
+ls -l - view permissions
